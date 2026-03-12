@@ -11,4 +11,4 @@ Especializado en arquitecturas escalables, seguridad móvil de alto nivel e inte
 - **[SecureVault Android]:** Implementación de grado bancario para biometría y encriptación local.
 - **[ResilientPay]:** Manejo de estados y reintentos para pagos en hardware/tótems.
 
-[LinkedIn](https://linkedin.com/in/gscporras) | [Email](gscporras@gmail.com)
+[LinkedIn](https://linkedin.com/in/gscporras) | Email (gscporras@gmail.com)

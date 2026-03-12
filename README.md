@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 🚀
+# Hola, soy Giancarlo Campomanes 🚀
 
 **Android & React Native Expert | Ex-Rappi, Crehana, Netzun**
 Especializado en arquitecturas escalables, seguridad móvil de alto nivel e integraciones de hardware complejas.

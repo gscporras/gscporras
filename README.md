@@ -1,14 +1,17 @@
-# Hola, soy Giancarlo Campomanes 🚀
+# Giancarlo Campomanes
 
-**Android & React Native Expert | Ex-Rappi, Crehana, Netzun**
-Especializado en arquitecturas escalables, seguridad móvil de alto nivel e integraciones de hardware complejas.
+**Software Engineer & Builder**
 
-### 🛠️ ¿En qué puedo ayudarte?
-- **Para Desarrolladores/Founders:** Ahorra semanas de trabajo con mi [Android SaaS Starter Kit](https://gum.new/gum/cmmm5q8zv000704l4hfczhj2p). La base técnica que usan las grandes startups, lista para tu próximo MVP.
-- **Para Empresas (B2B):** Consultoría en arquitectura móvil, auditoría de seguridad, biometría e integraciones con pasarelas de pago/hardware físico.
+I build software, explore how systems work, and experiment with ideas that can become useful products.
 
-### 📁 Proyectos Destacados (Open Source)
-- **[SecureVault Android]:** Implementación de grado bancario para biometría y encriptación local.
-- **[ResilientPay]:** Manejo de estados y reintentos para pagos en hardware/tótems.
+My interests include:
+- Software architecture and engineering practices
+- AI systems and practical experimentation
+- Developer tools and product development
+- Building, testing, and improving software in the real world
 
-[LinkedIn](https://linkedin.com/in/gscporras) | Email (gscporras@gmail.com)
+I'm sharing what I build, what I learn, and the reasoning behind my technical decisions.
+
+**Currently exploring:** Rust, Tauri, AI engineering, and independent software products.
+
+[Follow my journey on X](https://x.com/gcampomanes_)
